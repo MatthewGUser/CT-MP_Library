@@ -106,4 +106,4 @@ library_management_system/
 ```
 
 ## Conclusion
-This Contact Management System allows you to manage your contacts with ease, featuring a modular code structure for better organization and maintainability. Feel free to explore the code and extend its functionalities!
+This Library Management System showcases advanced OOP principles and modular code design, making it easy to manage library resources and user interactions. Explore the code to understand its functionality and feel free to extend its features!
