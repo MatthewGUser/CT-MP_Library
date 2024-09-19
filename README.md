@@ -106,4 +106,4 @@ library_management_system/
 ```
 
 ## Conclusion
-This Library Management System showcases advanced OOP principles and modular code design, making it easy to manage library resources and user interactions. Explore the code to understand its functionality and feel free to extend its features!
+This Library Management System showcases advanced OOP principles and modular code design, making it easy to manage library resources and user interactions.
